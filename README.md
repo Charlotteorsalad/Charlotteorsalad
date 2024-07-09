@@ -14,7 +14,6 @@
 <hr>
 
 <h3 align="left">Data Science/AI-related Project</h3>
-## Data Science/AI-related Project
 
 - 🍕 [Top 10 Penang Restaurant Review based on Sentiment Analysis Predictions (NLP)](https://github.com/Charlotteorsalad/NLP-Restaurant-Review)
 
