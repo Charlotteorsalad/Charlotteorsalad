@@ -13,10 +13,13 @@
 
 <hr>
 
-<h3 align="left">Data Science/AI-related Project</h3>
+<h3 align="left">Data Science, Machine Learning, and AI</h3>
 
 - 🍕 [Top 10 Penang Restaurant Review based on Sentiment Analysis Predictions (NLP)](https://github.com/Charlotteorsalad/NLP-Restaurant-Review)
 
+<h3 align="left">Computer Science Fundamental</h3>
+
+- 🍕 [University Management Module using TreeMap in Java (Data Structure& Algorithms)](https://github.com/Charlotteorsalad/DSA-University-Management-System)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
