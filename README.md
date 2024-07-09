@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charlotte Kam</h1>
 <h3 align="center">Year 3 Degree software engineering student from Malaysia</h3>
 
+![github-header-image](https://github.com/Charlotteorsalad/Charlotteorsalad/assets/86924148/ee2ce509-85d0-418b-9f94-9fb51ed59daa)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlotteorsalad&label=Profile%20views&color=0e75b6&style=flat" alt="charlotteorsalad" /> </p>
 
 - 🔭 I’m currently working on [NLP-based AI Platform for Parliament Proceedings Analysis to Enhance Governmental Transparency and Civic Engagement](https://github.com/Charlotteorsalad/Final-Year-Project)
