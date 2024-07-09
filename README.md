@@ -21,6 +21,8 @@
 
 - 🍕 [University Management Module using TreeMap in Java (Data Structure& Algorithms)](https://github.com/Charlotteorsalad/DSA-University-Management-System)
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bee-foong-kam-52654421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bee-foong-kam-52654421b/" height="30" width="40" /></a>
