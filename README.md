@@ -9,6 +9,14 @@
 
 - ⚡ Fun fact **I like to meet new people!!!**
 
+<hr>
+
+<h3 align="left">Data Science/AI-related Project</h3>
+## Data Science/AI-related Project
+
+- 🍕 [Top 10 Penang Restaurant Review based on Sentiment Analysis Predictions (NLP)](https://github.com/Charlotteorsalad/NLP-Restaurant-Review)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bee-foong-kam-52654421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bee-foong-kam-52654421b/" height="30" width="40" /></a>
