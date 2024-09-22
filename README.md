@@ -16,6 +16,7 @@
 <h3 align="left">Data Science, Machine Learning, and AI</h3>
 
 - 🍕 [Top 10 Penang Restaurant Review based on Sentiment Analysis Predictions (NLP)](https://github.com/Charlotteorsalad/NLP-Restaurant-Review)
+- 💰 [Credit Risk Score Classification using XGBoosT](https://github.com/Charlotteorsalad/DS-German-Credit-Risk)
 
 <h3 align="left">Computer Science Fundamental</h3>
 
