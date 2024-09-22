@@ -20,6 +20,7 @@
 <h3 align="left">Computer Science Fundamental</h3>
 
 - 🏤 [University Management Module using TreeMap in Java (Data Structure& Algorithms)](https://github.com/Charlotteorsalad/DSA-University-Management-System)
+- ✈ [Airplane Management System queries, stored procedures, triggers, reports (Advance Database)](https://github.com/Charlotteorsalad/ADM-Airplane-Management-System)
 
 <hr>
 
