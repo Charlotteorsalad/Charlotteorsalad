@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlotte Kam</h1>
-<h3 align="center">Year 3 Degree software engineering student from Malaysia</h3>
+<h3 align="center">Final Year Degree software engineering student from Malaysia</h3>
 
 ![github-header-image](https://github.com/Charlotteorsalad/Charlotteorsalad/assets/86924148/ee2ce509-85d0-418b-9f94-9fb51ed59daa)
 
