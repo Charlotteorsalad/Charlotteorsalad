@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charlotte Kam</h1>
 <h3 align="center">Final Year Degree software engineering student from Malaysia</h3>
 
-- 🔭 I’m currently working on [NLP-based AI Platform for Parliament Proceedings Analysis to Enhance Governmental Transparency and Civic Engagement](https://github.com/Charlotteorsalad/Final-Year-Project)
+- 🔭 I’m currently working on [MyParliament - NLP-based AI Platform for Parliament Proceedings Analysis to Enhance Governmental Transparency and Civic Engagement](https://github.com/Charlotteorsalad/Final-Year-Project)
 
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
 
