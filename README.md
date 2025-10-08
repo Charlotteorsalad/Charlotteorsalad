@@ -5,9 +5,11 @@
 
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
 
-- ⚡ Fun fact **I like to meet new people!!!**
-
 <hr>
+
+<h3 align="left">Productivity Boosting Tools</h3>
+
+- 📚 [Eslint output HTML files differences compare tool](https://github.com/Charlotteorsalad/eslint-compare-tool)
 
 <h3 align="left">Data Science, Machine Learning, and AI</h3>
 
