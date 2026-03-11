@@ -9,6 +9,7 @@
 
 <h3 align="left">Productivity Boosting Tools</h3>
 <h4 align="left">I build these for my company to boost out our working efficiency!"</h4>
+
 - 📚 [Eslint output HTML files differences compare tool](https://github.com/Charlotteorsalad/eslint-compare-tool)
 
 <h3 align="left">Data Science, Machine Learning, and AI</h3>
