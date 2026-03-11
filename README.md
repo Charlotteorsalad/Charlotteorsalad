@@ -8,7 +8,7 @@
 <hr>
 
 <h3 align="left">Productivity Boosting Tools</h3>
-<h4 align="left">I build these for my company to boost out our working efficiency!"</h4>
+<p align="left">I build these for my company to boost out my working efficiency!"</p>
 
 - 📚 [Eslint output HTML files differences compare tool](https://github.com/Charlotteorsalad/eslint-compare-tool)
 
