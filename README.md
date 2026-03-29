@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer from Malaysia</h3>
 
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
+- 🔭 I’m currently working on developing a closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired.
 
 <hr>
 
