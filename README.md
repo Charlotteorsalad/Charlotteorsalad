@@ -3,6 +3,7 @@
 
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
 - 🔭 I’m currently developing the [closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired](https://github.com/Charlotteorsalad/voice-bridge)
+- 🤖 Also working on rag and qa system for my company beside some side gigs.
 
 <hr>
 
