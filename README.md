@@ -2,12 +2,12 @@
 <h3 align="center">Software Engineer from Malaysia</h3>
 
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
-- 🔭 I’m currently working on developing a closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired.
+- 🔭 I’m currently developing the [closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired](https://github.com/Charlotteorsalad/voice-bridge)
 
 <hr>
 
 <h3 align="left">Productivity Boosting Tools (Enterprise solution)</h3>
-<p align="left">I build these for my company/clients to boost up working efficiency!</p>
+<p align="left">I build these for my company/clients to boost working efficiency!</p>
 
 - 📚 [Eslint output HTML files differences compare tool](https://github.com/Charlotteorsalad/eslint-compare-tool)
 
