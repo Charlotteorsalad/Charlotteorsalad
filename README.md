@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer from Malaysia</h3>
 
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
-- 🔭 I’m currently developing the [closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired](https://github.com/Charlotteorsalad/voice-bridge)
-- 🤖 Also working on rag and qa system for my company beside some side gigs.
+- 🔭 I’m currently developing：[closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired](https://github.com/Charlotteorsalad/voice-bridge) and [Hansard-Sovereign — an on-prem RAG system over Malaysian parliamentary records (Hansard)](https://github.com/Charlotteorsalad/hansard-sovereign)
+- 🤖 Also working on some side gigs.
 
 <hr>
 
@@ -16,12 +16,12 @@
 
 - 🫱🏻‍🫲🏻 [MyParliament - NLP-based AI Platform for Parliament Proceedings Analysis to Enhance Governmental Transparency and Civic Engagement](https://github.com/Charlotteorsalad/MyParliament)
 
-<h3 align="left">Data Science, Machine Learning, and AI</h3>
+<h3 align="left">Data Science, Machine Learning, and AI(Bachelor's Degree Assignments)</h3>
 
 - 🍕 [Top 10 Penang Restaurant Review based on Sentiment Analysis Predictions (NLP)](https://github.com/Charlotteorsalad/NLP-Restaurant-Review)
 - 💰 [Credit Risk Score Classification using XGBoost](https://github.com/Charlotteorsalad/DS-German-Credit-Risk)
 
-<h3 align="left">Computer Science Fundamental</h3>
+<h3 align="left">Computer Science Fundamental(Bachelor's Degree Assignments)</h3>
 
 - 🏤 [University Management Module using TreeMap in Java (Data Structure& Algorithms)](https://github.com/Charlotteorsalad/DSA-University-Management-System)
 - ✈ [Airplane Management System queries, stored procedures, triggers, reports (Advanced Database Management)](https://github.com/Charlotteorsalad/ADM-Airplane-Management-System)
