@@ -4,7 +4,7 @@
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
 - 🔭 I’m currently developing：[closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired](https://github.com/Charlotteorsalad/voice-bridge) and [Hansard-Sovereign — an on-prem RAG system over Malaysian parliamentary records (Hansard)](https://github.com/Charlotteorsalad/hansard-sovereign)
 - 🤖 Also working on some side gigs.
-- 🌐 Portfolio: [Charlotte's portfolio](https://charlotte-portfolio-lime.vercel.app/)
+- 🌐 Portfolio: [Charlotte's portfolio](https://www.charlottekam.site/)
 
 <hr>
 
