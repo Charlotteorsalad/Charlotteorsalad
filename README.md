@@ -2,11 +2,15 @@
 <h3 align="center">Software Engineer from Malaysia</h3>
 
 - 📫 How to reach me **charlotteorsalad02@gmail.com**
-- 🔭 I’m currently developing：[closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired](https://github.com/Charlotteorsalad/voice-bridge) and [Hansard-Sovereign — an on-prem RAG system over Malaysian parliamentary records (Hansard)](https://github.com/Charlotteorsalad/hansard-sovereign)
+- 🔭 I’m currently developing：[closed-loop AI biofeedback system for non-standard speech, integrating real-time phonetic analysis with multi-modal visual guidance for the hearing impaired](https://github.com/Charlotteorsalad/voice-bridge).
 - 🤖 Also working on some side gigs.
 - 🌐 Portfolio: [Charlotte's portfolio](https://www.charlottekam.site/)
 
 <hr>
+
+<h3 align="left">Self-project</h3>
+
+- 🧐 [Hansard-Sovereign - an on-prem RAG system over Malaysian parliamentary records (Hansard)](https://github.com/Charlotteorsalad/hansard-sovereign)
 
 <h3 align="left">Productivity Boosting Tools (Enterprise solution)</h3>
 <p align="left">I build these for my company/clients to boost working efficiency!</p>
